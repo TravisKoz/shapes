@@ -1,2 +1,3 @@
 # shapes
-Shapes Project from class
+This  is my shapes project from class
+-Travis Kolowski
